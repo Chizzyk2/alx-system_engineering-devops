@@ -1,0 +1,2 @@
+#!/bin/basn/bash
+find . -empty -printf '%f\n'
